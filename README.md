@@ -1,3 +1,3 @@
 # PROJECT-MANAGEMENT-TOOL
 
-It is use for Assign Tasks to Users.
+It is use for Assign Tasks to Others.
